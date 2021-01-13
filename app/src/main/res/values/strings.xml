@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zzz</string>
+    <string name="encender">Encender</string>
+    <string name="apagar">Apagar</string>
+    <string name="conectar">Conectar</string>
+    <string name="interfaz1">Interfaz1</string>
+    <string name="potencia_interfaz">PotenciaInterfaz</string>
+    <string name="interfaz2">Interfaz2</string>
+    <string name="interfaz3">Interfaz3</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Grupo">Grupo</string>
+</resources>
